@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xEMhDhI9oB+SSv8gVBVE3QfLp8t7gm+16t4owII9Pq3EMUNTQWCgCGXK5qkkvwaV0mCYIouWCjvohHRZ7AiMMg==",
+  "dgSpecHash": "RzhJukEFgcrANcVQlvcwTaUgF51rUsHOJ+y69ABGt0yxrEeAXsQib7H0Um4Q/EBtEgQrkWDSJ8v7Nlj0zbZiSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jiten\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

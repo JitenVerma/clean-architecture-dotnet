@@ -10,3 +10,9 @@ C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDin.DE1B2DD7.Up2Date

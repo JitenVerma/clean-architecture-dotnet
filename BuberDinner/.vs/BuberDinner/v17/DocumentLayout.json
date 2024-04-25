@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEAE33-B4A5-4379-B56B-0BE0304BE185}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFEAE33-B4A5-4379-B56B-0BE0304BE185}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3552DF1C-EBDA-49D8-8110-0FF48670750B}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.contracts\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|solutionrelative:buberdinner.contracts\\authentication\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|solutionrelative:buberdinner.contracts\\authentication\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|solutionrelative:buberdinner.contracts\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFEAE33-B4A5-4379-B56B-0BE0304BE185}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DFEAE33-B4A5-4379-B56B-0BE0304BE185}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.contracts\\buberdinner.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88E2CF4D-56AC-4588-A017-130E7C6F448F}|BuberDinner.Contracts\\BuberDinner.Contracts.csproj|solutionrelative:buberdinner.contracts\\buberdinner.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\jiten\\documents\\software-projects\\clean-architecture-dotnet\\buberdinner\\buberdinner.application\\buberdinner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B73797CE-566C-4C4D-AD1B-28C40A0637BB}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\buberdinner.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "BuberDinner.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:40:57.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "BuberDinner.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:34:00.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:57:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:49:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Contracts\\Authentication\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\RegisterRequest.cs",
+              "RelativeToolTip": "BuberDinner.Contracts\\Authentication\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:45:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Contracts\\Authentication\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\LoginRequest.cs",
+              "RelativeToolTip": "BuberDinner.Contracts\\Authentication\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:45:41.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuberDinner.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeToolTip": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T06:51:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuberDinner.Contracts",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+              "RelativeToolTip": "BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T06:50:56.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\Program.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:20:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "RelativeToolTip": "BuberDinner.Contracts\\Authentication\\AuthenticationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:46:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuberDinner.Api",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\BuberDinner.Api.csproj",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+              "RelativeToolTip": "BuberDinner.Api\\BuberDinner.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T06:46:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:57:43.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:00:31.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuberDinner.Application",
+              "DocumentMoniker": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\BuberDinner.Application.csproj",
+              "ToolTip": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+              "RelativeToolTip": "BuberDinner.Application\\BuberDinner.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T06:49:15.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

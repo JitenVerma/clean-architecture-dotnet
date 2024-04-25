@@ -10,3 +10,7 @@ C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date

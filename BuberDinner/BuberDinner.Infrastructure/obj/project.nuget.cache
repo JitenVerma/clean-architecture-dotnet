@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mhtN8XjVKpBVslcMJcgv0nAOmn9jO1zPy0jFaG1x7qO7qaYvxA72U1vVccJZMTKO9Vgk3lnvpSb6FSza1ll70w==",
+  "dgSpecHash": "fK9Qg4eLv0W/P7mpQTLxu/M2VtyFAZZCIFD8DgKBk3RJgam+6uqcIsFxBqEOxPsUWqppQfP31XwYKQkNN3eE1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jiten\\Documents\\software-projects\\clean-architecture-dotnet\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jiten\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
