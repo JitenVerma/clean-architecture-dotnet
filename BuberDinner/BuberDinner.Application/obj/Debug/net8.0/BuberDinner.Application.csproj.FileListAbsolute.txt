@@ -1,0 +1,12 @@
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
