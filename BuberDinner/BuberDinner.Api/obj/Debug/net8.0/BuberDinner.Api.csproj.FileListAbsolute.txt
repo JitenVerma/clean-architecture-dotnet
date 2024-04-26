@@ -41,3 +41,8 @@ C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jiten\Documents\software-projects\clean-architecture-dotnet\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
