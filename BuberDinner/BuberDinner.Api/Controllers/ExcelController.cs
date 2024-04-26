@@ -26,7 +26,7 @@ public class ExcelController : ControllerBase
             createExcelResult.File
         );
 
-        return Ok(response.File);
+        return response.File;
     }
 
     [HttpGet("download-excel")]
